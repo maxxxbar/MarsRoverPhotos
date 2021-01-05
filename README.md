@@ -7,5 +7,6 @@ Application for viewing images from the Curiosity rover for the current day.
 * Uses [Architecture Components:](https://developer.android.com/topic/libraries/architecture/)
   * [Paging Library 3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview)
   * [Room](https://developer.android.com/training/data-storage/room)
-  * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
+  * [View Model](https://developer.android.com/topic/libraries/architecture/viewmodel)
+  * [View Binding](https://developer.android.com/topic/libraries/view-binding)
 * Uses [Dager 2](https://dagger.dev/)
