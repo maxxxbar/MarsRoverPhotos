@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mars Rover Photos</string>
+    <string name="retry">Retry</string>
+    <string name="error_msg_title">Timeout</string>
+    <string name="iv_photo_description">Photo from the rover</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Photo List Item Start-->
+    <dimen name="photo_list_item_cv_all_margin">10dp</dimen>
+    <dimen name="photo_list_item_cv_elevation">24dp</dimen>
+    <dimen name="photo_list_item_iv_photo_width">100dp</dimen>
+    <dimen name="photo_list_item_iv_photo_height">100dp</dimen>
+    <dimen name="photo_list_item_tv_photo_id_text_size">48sp</dimen>
+    <!--Photo List Item End-->
+
+    <!--Load State Footer Start-->
+    <dimen name="load_state_footer_ll_all_padding">8dp</dimen>
+    <dimen name="load_state_footer_tv_error_msg_textSize">24sp</dimen>
+    <!--Load State Footer End-->
+
+</resources>
